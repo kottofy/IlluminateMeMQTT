@@ -36,6 +36,7 @@ void colorWipePixels(int red, int green, int blue) {
 
 void initPixels() {
     strip.begin();
+    strip.setBrightness(50);
     strip.show(); // Initialize all pixels to 'off'
 }
 
