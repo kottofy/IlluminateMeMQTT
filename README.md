@@ -40,8 +40,8 @@ other options for triggers happens.
 3. Micro USB cable to USB cable
 4. [Battery](https://www.adafruit.com/products/1578)
 5. There are two options.
-    - Option 1: If you are good at soldering: some soldering wire and hookup wire.
-    - Option 2: If you would rather not solder: breadboard and breadboard wiring. (Warning, 
+    - Option 1: If you are good at soldering: solder stuff, hookup wire, resistor between 300 and 500 Ohms, and heatshrink tube or something to protect the connections.
+    - Option 2: If you would rather not solder: breadboard, breadboard wiring, and resistor between 300 and 500 Ohms. (Warning, 
     you may need to fidget with the pins to keep them touching the ports on the board.)
 
 # Steps
